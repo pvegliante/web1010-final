@@ -1,0 +1,12 @@
+Question 5
+What will the console output when the following is entered, and which data
+type will it be?
+
+'1'+1
+
+a. 2, number
+b. "2", string
+c. "11", string
+d. 11, number
+
+Answer:

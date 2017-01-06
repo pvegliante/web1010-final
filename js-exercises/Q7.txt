@@ -1,0 +1,14 @@
+Question 7
+What is the value of x?
+
+var a = "thug life"
+var b = 5;
+var c = 10;
+var x = b*c + a;
+
+a: 59
+b: "50thug life"
+c: "thug life510"
+d: "thug life50"
+
+Answer:

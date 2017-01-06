@@ -1,0 +1,8 @@
+Question 3.3
+What is the value of str3?
+
+var str1 = "que bola acere";
+var str2 = "sup dawg";
+var str3 = str1 + "is similar to" + str2 + " in spanish.";
+
+Answer:
